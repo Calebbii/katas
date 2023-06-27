@@ -26,7 +26,6 @@
 //   return duplicateCount
 
 
-
 // Solution
 
 function countDuplicates(data) {
