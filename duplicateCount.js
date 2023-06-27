@@ -4,6 +4,7 @@
 // Then it should return the count alphanumeric characters that occur more than once in the input string
 
 
+
 // Psedocode 
 
 // function countDuplicates(input):
